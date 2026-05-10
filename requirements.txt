@@ -1,0 +1,27 @@
+streamlit
+yfinance
+pandas
+streamlit-autorefresh
+numpy
+plotly
+matplotlib
+ta
+requests
+plotly
+scikit-learn
+xgboost
+# HTML parsing and data dependencies
+lxml>=5.2.0
+html5lib>=1.1
+beautifulsoup4>=4.12.0
+
+# Optional for smoother charting and caching
+plotly>=5.23.0
+
+# Miscellaneous (if you export CSV/XLSX)
+openpyxl>=3.1.2
+selenium
+textblob
+duckduckgo-search
+ddgs
+webdriver-manager
